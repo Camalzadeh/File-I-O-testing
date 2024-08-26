@@ -1,0 +1,18 @@
+Department: IT
+Total employees: 1
+Total salary: 50000.0
+Department: HR
+Total employees: 2
+Total salary: 116000.00
+Department: FINANCE
+Total employees: 3
+Total salary: 198500.00
+Department: EXECUTIVE
+Total employees: 5
+Total salary: 351500.00
+Department: MARKETING
+Total employees: 8
+Total salary: 531500.00
+Department: SALES
+Total employees: 11
+Total salary: 750400.00

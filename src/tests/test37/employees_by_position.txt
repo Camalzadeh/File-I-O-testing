@@ -1,0 +1,6 @@
+SENIOR : 15
+
+MANAGER : 17
+
+EXECUTIVE : 3
+

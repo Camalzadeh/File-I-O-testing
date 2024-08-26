@@ -1,0 +1,1 @@
+id : 23, name : 'Brian', surname : 'Lewis', age : 32, salary : 58300.00, department : 'MARKETING', isPermanent : true, startDate : 2014-09-16, email : 'brian.lewis@example.com', phone : '4567890123', position : 'SENIOR', address : '1111 Pine St'

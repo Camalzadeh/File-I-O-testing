@@ -1,0 +1,24 @@
+Department: IT
+Total employees: 0
+Total salary: 0
+Average salary: 0
+Department: EXECUTIVE
+Total employees: 3
+Total salary: 297000.00
+Average salary: 99000.00
+Department: MARKETING
+Total employees: 6
+Total salary: 376200.00
+Average salary: 62700.00
+Department: FINANCE
+Total employees: 11
+Total salary: 906400.00
+Average salary: 82400.00
+Department: SALES
+Total employees: 7
+Total salary: 506000.00
+Average salary: 72285.71
+Department: HR
+Total employees: 8
+Total salary: 578600.00
+Average salary: 72325.00
